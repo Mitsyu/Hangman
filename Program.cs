@@ -33,6 +33,7 @@
                 
                 DrawHangMan(incorrectGuesses);
                 Console.WriteLine();
+                Console.WriteLine("Letters already guessed:"); 
                 Console.WriteLine(displayWord);
                 Console.WriteLine();
 
